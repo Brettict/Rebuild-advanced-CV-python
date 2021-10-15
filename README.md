@@ -11,4 +11,7 @@ contact@computervision.zone <contact@computervision.zone>;
 1.anaconda-win 10
 2.opencv-python
 3.python 3.7
+4.a hikvision usb camera
 
+**Appreciation:**
+Qian Li for assistance
